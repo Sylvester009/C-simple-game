@@ -1,2 +1,1 @@
-A terminal game bulit using C programming language
-
+Sylvester terminal game version built using C
